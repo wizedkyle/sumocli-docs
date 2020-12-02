@@ -13,10 +13,22 @@
 
 ## Roles
 
+* [assign](roles/assign.md)
+* [create](roles/create.md)
+* [delete](roles/delete.md)
 * [get](roles/get.md)
 * [list](roles/list.md)
+* [remove](roles/remove.md)
+* [update](roles/update.md)
 
 ## Users
 
-* [Create](users/create.md)
+* [change email](users/change-email.md)
+* [create](users/create.md)
+* [delete](users/delete.md)
+* [disable mfa](users/disable-mfa.md)
+* [get](users/get.md)
+* [list](users/list.md)
+* [reset password](users/reset-password.md)
+* [unlock](users/unlock.md)
 

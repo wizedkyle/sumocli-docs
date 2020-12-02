@@ -1,4 +1,4 @@
-# Create
+# create
 
 The `sumocli users create` command creates a user in the Sumo Logic organisation.
 
