@@ -11,6 +11,10 @@
 * [login](commands-cli/login.md)
 * [version](commands-cli/version.md)
 
+## Collectors
+
+* [get](collectors/get.md)
+
 ## Roles
 
 * [assign](roles/assign.md)
