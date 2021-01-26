@@ -2,9 +2,10 @@
 
 * [Sumocli](README.md)
 
-## Concepts
+## Authentication
 
-* [Authentication](concepts/authentication.md)
+* [Azure](authentication/azure.md)
+* [Sumo Logic](authentication/sumologic.md)
 
 ## Commands <a id="commands-cli"></a>
 
@@ -13,7 +14,9 @@
 
 ## Collectors
 
+* [create](collectors/create.md)
 * [get](collectors/get.md)
+* [list](collectors/list.md)
 
 ## Roles
 
@@ -24,6 +27,11 @@
 * [list](roles/list.md)
 * [remove](roles/remove.md)
 * [update](roles/update.md)
+
+## Source
+
+* [create](sources/create.md)
+* [list](sources/list.md)
 
 ## Users
 

@@ -6,9 +6,12 @@ The `sumocli roles get` command gets information about a specific role from a Su
 
 Usage: `sumocli roles get [options]`
 
-By default, roles list will list the first 100 roles that are available in the Sumo Logic organisation. The command line flags that are available for roles list are all optional. The following command line flags are available:
+The following option is required for this command:
 
 * `--id` - Id of the role you want to retrieve information about.
+
+The following option is optional for this command:
+
 * `--output` - Specify the field to export the value from. The following fields can be exported:
   * name
   * description
